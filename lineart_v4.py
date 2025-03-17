@@ -55,11 +55,10 @@ class table():
     # Input arugments validation      
     if x is not None and y is not None:
       if len(x) != len(y):
-        raise ValueError('Number of columns should be' /
-                       'equal to number of column labels')
+        raise ValueError('Number of columns should be equal to the number of column labels')
         
       if x is not list or y is not list:
-        raise ValueError('Table inputs should be formated as lists')
+        raise ValueError('Table inputs should be formatted as lists')
       
       for column_lables in x:
         if not isinstance(column_lables, str):
