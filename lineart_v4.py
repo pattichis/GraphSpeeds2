@@ -58,12 +58,16 @@ class table():
       if len(x) != len(y):
         raise ValueError('Number of columns should be equal to the number of column labels')
         
-      if x is not list or y is not list:
+      if not isinstance(x, list) or not isinstance(y, list):
         raise ValueError('Table inputs should be formatted as lists')
       
       for column_label in column_labels:
         if not isinstance(column_label, str):
           raise ValueError('Column labels should be strings')
+      
+      for data_values in x:
+        if not isinstance(data_values, numbers.Number):
+          raise ValueError('Data values should be numbers')
       
       for data_values in y:
         if not isinstance(data_values, numbers.Number):
