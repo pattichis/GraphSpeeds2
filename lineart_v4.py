@@ -47,6 +47,7 @@ from moviepy.editor import VideoFileClip, vfx
 class table():
   def __init__(self, 
                x = None, y = None, 
+               column_labels=None,
                img_path = None, img_loc = None, 
                img_speed = None):
     
@@ -60,16 +61,16 @@ class table():
       if x is not list or y is not list:
         raise ValueError('Table inputs should be formatted as lists')
       
-      for column_lables in x:
-        if not isinstance(column_lables, str):
-          raise ValueError('Column lables should be strings')
+      for column_label in column_labels:
+        if not isinstance(column_label, str):
+          raise ValueError('Column labels should be strings')
       
       for data_values in y:
         if not isinstance(data_values, numbers.Number):
           raise ValueError('Data values should be numbers')
         
-      self.column_labels = x
-      self.data_values = y
+      self.column_labels = column_labels
+      self.data_values   = [x, y]
     else:
       self.column_labels = []
       self.data_values = []
