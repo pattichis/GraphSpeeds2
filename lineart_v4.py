@@ -146,11 +146,11 @@ class table():
       self.fig.layout = {}
 
       # Add the table plot
-      print(self.column_labels)
-      print(self.data_values)
+      # print(self.column_labels)
+      # print(self.data_values)
 
-      print(len(self.column_labels)) 
-      print(len(self.data_values))
+      # print(len(self.column_labels)) 
+      # print(len(self.data_values))
 
       # Generate the format string.
       format_vals = []
