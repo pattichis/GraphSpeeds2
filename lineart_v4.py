@@ -159,7 +159,7 @@ class table():
           format_vals.append("text")
         else:
           format_vals.append(".5f")
-      print(format_vals)
+      #print(format_vals)
 
       self.fig.add_trace(go.Table(header=dict(values = self.column_labels), 
                                   cells = dict(values = self.data_values,
