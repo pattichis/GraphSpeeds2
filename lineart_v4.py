@@ -702,16 +702,7 @@ class simulationVideo:
 
 
 
-def CreateVideo(video_name, file_list, fps, durations):
-  # Check array lengths:
-  if (len(durations) != len(file_list)):
-    print("The lists are of different lengths!")
-    print("The number of elements in file_list = ", len(file_list))
-    print("The number of elements in durations = ", len(durations))
-    print("I cannot create the video until this is fixed!")
-    return
-
-
+def CreateVideo(video_name, file_list, fps, duration):
   #self.plot_to_frame()
   height_list  = []
   width_list   = []
@@ -777,7 +768,7 @@ def CreateVideo(video_name, file_list, fps, durations):
     print("VideoWriter initialized successfully.")
 
   # Save all of the frames after padding
-  for filename, duration in zip(file_list, durations):
+  for filename in file_list:
     # Check if we are working with a video file:
     if (filename.lower().endswith('.mp4')):
       # Open the file:
