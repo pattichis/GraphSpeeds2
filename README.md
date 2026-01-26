@@ -5,3 +5,6 @@
 [Lesson 1](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)<br>
 [Lessons 2 and 3](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)<br>
 
+# Students Projects
+
+
