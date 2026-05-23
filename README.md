@@ -1,4 +1,4 @@
-# ESTRELLA Final lessons
+# ESTRELLA 7th grade lessons for exploring linear relationships using Python and digital videos
 The repository includes interactive materials for exploring graphs, speeds, distances, tables, and linear relationships in Python.
 
 The code allows middle school children (grades 6-8) to visualize relationships through tables, pictures, and videos.
