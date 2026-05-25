@@ -7,11 +7,12 @@ The children create digital video storytelling to explain different operations.
 It includes a video animation that creates a race using custom characters (chosen by the children) to visualize the relationship between distance, time, and speed.
 
 
-* [Estrella 7th Grade Day 1 24-25.pdf](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)<br>
+* Days 1 and 2: Introduction to distance, speed (rate), and time using Python
+  - [Day1-assignment.pdf](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
+  - [Lesson 1: Introduction to Python and Visualization of distance, speed, time](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
+
 * [Estrella 7th Grade Day 2 24-25.pdf](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)<br>
 * [Estrella 7th Grade Day 3 24-25.pdf](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)<br>
-
-* [Lesson 1 on march 25, 2025](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
 * [Lessons 2 and 3 on march 26, 27, 2025](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)<br>
 
 # Students Projects
