@@ -8,11 +8,12 @@ The children create digital video storytelling to explain different operations.
   - [Lesson 1: Introduction to Python and visualization of distance, speed, time (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
   - [Assignment 1: Video review and rate computations (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
 * Day 2: Students work on Tables, equations, and plots from a custom problem
-  - [Assignment 2a: fill race tables (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
+  - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
+  - [Assignment 2: fill race tables for custom problem (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
 * Day 3: Students race and measure their own speeds to use for the project (requires a watch and time outside)
   - [Assignment 3a: fill race tables (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)<br> 
 * Day 4: Students create tables, equations, and plots based on their speeds
-  - [Lesson 2: Students create Characters, Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
+  - [Lesson 3b: Students create Characters, Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
   - [Assignment 3b: Create tables, equations, and plots](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
 * Day 5: Students create a video animation to explain linear relationships
