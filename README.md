@@ -17,7 +17,7 @@ The children create digital video storytelling to explain different operations.
   - [Assignment 3b: Create tables, equations, and plots](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
 * Day 5: Students create a video animation to explain linear relationships
-  - [Lesson 3: Create video animation explaining linear relationships](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
+  - [Lesson 3c: Create video animation explaining linear relationships](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
   - [Assignment 3c: Video animation assignment](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
 # Students Projects
