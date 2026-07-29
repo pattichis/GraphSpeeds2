@@ -13,10 +13,12 @@ The children create digital video storytelling to explain different operations.
 * y = COP*x graph and tables.
 
 ## Lesson 1: Computing rates using coding 
-* [Lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
-* [Google colab assignment material](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
+### Lesson 1: teaching material
+* [Main classroom lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
+* [Coding: Google colab assignment material](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
 * [Assignment 1: Video review and rate computations (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
-### Lesson 1 Contents
+
+### Lesson 1 topics
 * How can coding help?
 * Coding team rules.
 * Introduction to variables.
@@ -25,8 +27,8 @@ The children create digital video storytelling to explain different operations.
 * Computing rates using the DRT triangle.
 * Computing rates using coding.
 * Working with lists in Python.
-* 
-  - 
+
+  
 * Day 2a: Students race to measure their own speeds and work on Tables, equations, and plots from a custom problem
   - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
   - [Assignment 2: fill race tables for custom problem (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
