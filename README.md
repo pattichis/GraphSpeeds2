@@ -5,8 +5,8 @@ The code allows 7th-grade students to visualize relationships through tables, pi
 The children create digital video storytelling to explain different operations. 
 
 ## Lesson 0: An Introduction to Coding Week 
-* [Lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf)
-[PowerPoint download](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+* [Lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf),
+[PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
 * Distance, rate, and time.
 * Forming coding Groups.
 * Computing Rates.
