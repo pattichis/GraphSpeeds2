@@ -5,8 +5,10 @@ The code allows 7th-grade students to visualize relationships through tables, pi
 The children create digital video storytelling to explain different operations. 
 
 ## Lesson 0: An Introduction to Coding Week 
-* [Lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf),
-[PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+### Lesson 0: Teaching material
+* [Classroom lesson in PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf),
+[PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+### Lesson 0: topics
 * Distance, rate, and time.
 * Forming coding Groups.
 * Computing Rates.
@@ -14,7 +16,7 @@ The children create digital video storytelling to explain different operations.
 
 ## Lesson 1: Computing rates using coding 
 ### Lesson 1: teaching material
-* [Main classroom lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
+* [Main classroom lesson in PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
 * [Coding: Google colab assignment material](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
 * [Assignment 1: Video review and rate computations (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
 
