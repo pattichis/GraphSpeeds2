@@ -4,6 +4,14 @@ The repository includes interactive materials for exploring graphs, speeds, dist
 The code allows 7th-grade students to visualize relationships through tables, pictures, and video animations.
 The children create digital video storytelling to explain different operations. 
 
+## Lesson 0: An Introduction to Coding Week 
+* [Lesson in PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf)
+[PowerPoint download](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+* Distance, rate, and time.
+* Forming coding Groups.
+* Computing Rates.
+* y = COP*x graph and tables.
+
 * Days 1: Introduction to distance, speed (rate), and time using Python
   - [Lesson 1: Introduction to Python and visualization of distance, speed, time (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
   - [Assignment 1: Video review and rate computations (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
