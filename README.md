@@ -30,7 +30,7 @@ The children create digital video storytelling to explain different operations.
 * Computing rates using coding.
 * Working with lists in Python.
 
-  
+## Lesson 2: ???  
 * Day 2a: Students race to measure their own speeds and work on Tables, equations, and plots from a custom problem
   - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
   - [Assignment 2: fill race tables for custom problem (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
