@@ -45,7 +45,6 @@ The children create digital video storytelling to explain different operations.
  
 # Students Projects
 
-[Student project](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
 
 
 # Acknowledgement
