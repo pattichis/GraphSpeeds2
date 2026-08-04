@@ -43,7 +43,7 @@ The children create digital video storytelling to explain different operations.
   - [Lesson 3c: Create video animation explaining linear relationships](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
   - [Assignment 3c: Video animation assignment](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
-# Students Projects
+# [Student Video Projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 
 
 
