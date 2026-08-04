@@ -45,6 +45,8 @@ The children create digital video storytelling to explain different operations.
  
 # Students Projects
 
+[Student project](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
+
 
 # Acknowledgement
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
