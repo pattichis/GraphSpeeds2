@@ -40,8 +40,7 @@ The children create digital video storytelling to explain different operations.
   - [Assignment 3c: Video animation assignment](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
 # [Student Video Projects](https://github.com/pattichis/fractions/blob/main/projects.md)
-
-
+Click on the link above to access students' video projects in an external file.
 
 # Acknowledgement
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
