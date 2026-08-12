@@ -29,7 +29,7 @@ The children create digital video storytelling to explain different operations.
 ## Lesson 2: Tables and object-oriented programming
 * Main classroom lesson [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%202-final-products.pdf), [(download PowerPoint)](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%202-final-products.pptx).
 * Students race to measure their own speeds and work on Tables, equations, and plots from a custom problem
-  - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb). You must SAVE your work in Google Drive for Day 3.
+  - [Coding: Google Colab assignment for Days 2 and 3](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb). You must SAVE your work in Google Drive for Day 3.
   - [Assignment 2: fill race tables for custom problem (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
 * Students create tables, equations, and plots based on their speeds
     - [Assignment 3: Create tables, equations, and plots](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
