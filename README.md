@@ -6,14 +6,14 @@ The children create digital video storytelling to explain different operations.
 
 ## Lesson 0: An Introduction to Coding Week 
 * [Classroom lesson in PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf),
-[PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+[Download PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx).
 * Distance, rate, and time.
 * Forming coding Groups.
 * Computing Rates.
 * y = COP*x graph and tables.
 
 ## Lesson 1: Computing rates using coding 
-* [Main classroom lesson in PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
+* [Main classroom lesson in PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [Download PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
 * [Coding: Google colab assignment material](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lesson_1_2025.ipynb)
 * [Assignment 1: Video review and rate computations (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%201%2024-25.pdf)
 * How can coding help?
