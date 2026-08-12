@@ -29,14 +29,15 @@ download PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons
 ## Lesson 2: Tables and object-oriented programming
 * Main classroom lesson [PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%202-final-products.pdf), [download PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%202-final-products.pptx).
 * Students race to measure their own speeds and work on Tables, equations, and plots from a custom problem
-  - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
+  - [Lesson 2: Students Fix Tables, Equations, and Plots (Google Colab)](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb). ** You must save your work in Google Drive and use it for day 3. **.
   - [Assignment 2: fill race tables for custom problem (pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%202%2024-25.pdf)  
 * Students create tables, equations, and plots based on their speeds
-    - [Assignment 3b: Create tables, equations, and plots](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
+    - [Assignment 3: Create tables, equations, and plots](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
+    - Enter the information in the Google Colab for lesson 2. You will need to use the same Google Colab file here and for the next lesson.
  
-## Lesson 3: ???
-* Day 4: Students create a video animation to explain linear relationships
-  - [Lesson 3c: Create video animation explaining linear relationships](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_lessons_2_and_3.ipynb)
+## Lesson 3: Students create a video animation to explain linear relationships
+* Main classroom lesson [PDF](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%203-final-products.pdf), [downalod PowerPoint](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%203-final-products.pptx).
+* Reuse the Google Colab saved from Day 2.
   - [Assignment 3c: Video animation assignment](https://github.com/pattichis/GraphSpeeds2/blob/main/Estrella%207th%20Grade%20Day%203%2024-25.pdf)
  
 # [Student Video Projects](https://github.com/pattichis/fractions/blob/main/projects.md)
