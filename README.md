@@ -40,7 +40,7 @@ The children create digital video storytelling to explain different operations.
 * Reuse the Google Colab saved from Day 2.
 * Reuse the custom race table that you created on Day 2.
    
-# [Student Video Projects](https://github.com/pattichis/fractions/blob/main/projects.md)
+# Student Video Projects (still pending)
 Click on the link above to access students' video projects in an external file.
 
 # Acknowledgement
