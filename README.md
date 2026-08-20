@@ -2,7 +2,10 @@
 The repository includes interactive materials for exploring graphs, speeds, distances, tables, and linear relationships in Python.
 
 The code allows 7th-grade students to visualize relationships through tables, pictures, and video animations.
-The children create digital video storytelling to explain different operations. 
+The children create digital video storytelling to explain different operations. Please navigate to   
+ [Student Video Projects](https://github.com/pattichis/GraphSpeeds2/blob/main/student-projects.md) to access more projects
+ and more information about the students' projects
+ (including student code).
 
 [Example project](https://github.com/user-attachments/assets/63ddc2dd-cce5-426f-8f9b-2b313c0b3492)
 
