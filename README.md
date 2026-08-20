@@ -4,6 +4,9 @@ The repository includes interactive materials for exploring graphs, speeds, dist
 The code allows 7th-grade students to visualize relationships through tables, pictures, and video animations.
 The children create digital video storytelling to explain different operations. 
 
+[Example project](https://github.com/user-attachments/assets/63ddc2dd-cce5-426f-8f9b-2b313c0b3492)
+
+
 ## Lesson 0: An Introduction to Coding Week 
 * Main classroom lesson [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf),
 [(download PowerPoint)](https://github.com/pattichis/GraphSpeeds2/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx).
@@ -40,7 +43,7 @@ The children create digital video storytelling to explain different operations.
 * Reuse the Google Colab saved from Day 2.
 * Reuse the custom race table that you created on Day 2.
    
-# Student Video Projects (still pending)
+# [Student Video Projects (still pending)](https://github.com/pattichis/GraphSpeeds2/blob/main/student-projects.md)
 Click on the link above to access students' video projects in an external file.
 
 # Acknowledgement
