@@ -11,7 +11,7 @@
 
 [Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/f42fbe8b-2940-4be2-9341-f25286ce9085)
 
-[Google Colab code for project 2](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)]()<br>
+[Google Colab code for project 2](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf)<br>
 
 # Group Project 3 (Exemplar)
 
