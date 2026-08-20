@@ -13,3 +13,9 @@
 # Group Project 3 (Exemplar)
 
 [Group Project 3 (Exemplar)](https://github.com/user-attachments/assets/63754152-3c00-4835-ad06-c197540e95a0)
+
+[C1-G4](https://github.com/pattichis/GraphSpeeds2/blob/main/C1_G4_Mar26_GraphSpeeds_lessons_2_and_3.ipynb)
+
+[C1-G2.pdf](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_C1_G2.pdf)
+
+[C2-G1](https://github.com/pattichis/GraphSpeeds2/blob/main/GraphSpeeds_C2_G1.pdf)
