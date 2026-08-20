@@ -5,11 +5,13 @@
 
 [Group Project 1 (Exemplar)](https://github.com/user-attachments/assets/63ddc2dd-cce5-426f-8f9b-2b313c0b3492)
 
-[Google Colab for Project 1](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf) <br>
+[Google Colab code for Project 1](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf) <br>
 
 # Group Project 2 (Exemplar)
 
 [Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/f42fbe8b-2940-4be2-9341-f25286ce9085)
+
+[Google Colab code for project 2](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)]()<br>
 
 # Group Project 3 (Exemplar)
 
