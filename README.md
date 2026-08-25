@@ -51,5 +51,24 @@ The children create digital video storytelling to explain different operations. 
 # [Student Video Projects](https://github.com/pattichis/GraphSpeeds2/blob/main/student-projects.md)
 Click on the link above to access students' video projects in an external file.
 
+# Contact information
+If you have any questions or need any more information about this project,
+feel free to contact any of the Co-PIs of the project!
+
+Marios S. Pattichis was the lead PI for the project.
+He is a Professor in the Department of Electrical and Computer Engineering at the University of New Mexico.
+He can be reached at [pattichi@unm.edu](mailto:pattichi@unm.edu).
+
+Sylvia Celed&oacute;n-Pattichis was a Co-PI for the project.
+She is a Professor in the Department of Curriculum and Instruction at the University of Texas at Austin.
+She can be reached at [sylvia.celedon@austin.utexas.edu](mailto:sylvia.celedon@austin.utexas.edu).
+
+Carlos L&oacute;pez-Leiva was a Co-PI for the project.
+He is a Professor Language, Literacy, and Sociocultural Studies at the University of New Mexico.
+He can be reached at [callopez@unm.edum](mailto:callopez@unm.edu).
+
+The UNM project website is at [estrella.unm.edu](https://estrella.unm.edu).
+
 # Acknowledgement
-Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
