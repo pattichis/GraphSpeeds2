@@ -9,7 +9,7 @@ The classroom needs access to Google Drive to store students' projects. With int
 
 Our use of Google Colab also provides a dedicated interface for Gemini to answer questions about the code. The interface can be used to further explain code fragments and to remove barriers posed by the need to understand Python code.
 
-Please navigate to   
+Please navigate to the project below:<br>  
  [Student Video Projects](https://github.com/pattichis/GraphSpeeds2/blob/main/student-projects.md) to access more projects
  and more information about the students' projects
  (including student code).
