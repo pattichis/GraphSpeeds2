@@ -1,10 +1,15 @@
 # ESTRELLA 7th grade lessons for exploring linear relationships using Python and digital videos
-The lessons below support the following standards: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  and 7.RP.A.2.A.C.
+The lessons below support the following standards: CCSS.Math.Content.7.RP.A.2.A, 7.RP.A.2.B, and 7.RP.A.2.A.C.
 
 The repository includes interactive materials for exploring graphs, speeds, distances, tables, and linear relationships in Python.
 
-The code allows 7th-grade students to visualize relationships through tables, pictures, and video animations.
-The children create digital video storytelling to explain different operations. Please navigate to   
+The code allows 7th-grade students to visualize relationships through tables, pictures, and video animations. The students create digital video storytelling to explain different relationships. 
+
+The classroom needs access to Google Drive to store students' projects. With internet access, students can access all the material in their browser without additional support.
+
+Our use of Google Colab also provides a dedicated interface for Gemini to answer questions about the code. The interface can be used to further explain code fragments and to remove barriers posed by the need to understand Python code.
+
+Please navigate to   
  [Student Video Projects](https://github.com/pattichis/GraphSpeeds2/blob/main/student-projects.md) to access more projects
  and more information about the students' projects
  (including student code).
