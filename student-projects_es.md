@@ -1,0 +1,20 @@
+
+# Proyectos de video de los estudiantes
+
+# Proyecto del grupo 1 (ejemplar)
+
+[Proyecto del grupo 1 (ejemplar)](https://github.com/user-attachments/assets/63ddc2dd-cce5-426f-8f9b-2b313c0b3492)
+
+[Código del proyecto 1 en Google Colab (en inglés)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G2_Mar_26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf) <br>
+
+# Proyecto del grupo 2 (ejemplar)
+
+[Proyecto del grupo 2 (ejemplar)](https://github.com/user-attachments/assets/f42fbe8b-2940-4be2-9341-f25286ce9085)
+
+[Código del proyecto 2 en Google Colab (en inglés)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C2_G3_Mar26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf)<br>
+
+# Proyecto del grupo 3 (ejemplar)
+
+[Proyecto del grupo 3 (ejemplar)](https://github.com/user-attachments/assets/63754152-3c00-4835-ad06-c197540e95a0)
+
+[Código del proyecto 3 en Google Colab (en inglés)](https://github.com/pattichis/GraphSpeeds2/blob/main/C1_G4_Mar26_GraphSpeeds_lessons_2_and_3.ipynb), [(pdf)](https://github.com/pattichis/GraphSpeeds2/blob/main/C1_G4_Mar26_GraphSpeeds_lessons_2_and_3.ipynb%20-%20Colab.pdf) <br>
