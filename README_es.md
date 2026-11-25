@@ -1,3 +1,4 @@
+# [Switch to English](README.md)
 # Lecciones de ESTRELLA de 7.º grado para explorar relaciones lineales con Python y videos digitales
 Las lecciones de abajo apoyan los siguientes estándares: CCSS.Math.Content.7.RP.A.2.A, 7.RP.A.2.B y 7.RP.A.2.A.C.
 
