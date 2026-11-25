@@ -1,3 +1,4 @@
+# [Switch to Spanish](README_es.md)
 # ESTRELLA 7th grade lessons for exploring linear relationships using Python and digital videos
 The lessons below support the following standards: CCSS.Math.Content.7.RP.A.2.A, 7.RP.A.2.B, and 7.RP.A.2.A.C.
 
